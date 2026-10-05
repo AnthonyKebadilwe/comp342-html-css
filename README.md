@@ -20,11 +20,11 @@ My practice repository for the HTML & CSS lectures (Dr Tshiamo Sigwele, BIUST). 
 Tick each box (`[ ]` → `[x]`) as you go. GitHub shows them as clickable checkboxes when you edit.
 
 - [ ] **01 – Introduction to HTML**
-  - [ ] Notes read
-  - [ ] Examples run
-  - [ ] Practice done
-  - [ ] Exercises done
-  - [ ] Pushed to GitHub
+  - [x] Notes read
+  - [x] Examples run
+  - [x] Practice done
+  - [x] Exercises done
+  - [x] Pushed to GitHub
 - [ ] **02 – HTML Attributes**
   - [ ] Notes read
   - [ ] Examples run
